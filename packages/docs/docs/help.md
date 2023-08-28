@@ -12,7 +12,7 @@ of you building something awesome.
 
 If you're a developer looking to contribute code, documentation, or discussion;
 we are more than happy to help provide clarification and answer questions via
-[GitHub issues][gh-issues]. You can also post on the [Community Forum](https://community.ohif.org/).
+[GitHub issues][gh-issues]. You can also join our [Slack Group](https://ohif.org/community) or post on the [Community Forum](https://community.ohif.org/).
 
 For bug reports and feature requests (including incomplete or confusing
 documentation), [GitHub issues][gh-issues] continue to be your best avenue of communication.
